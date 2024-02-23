@@ -1,10 +1,15 @@
 import './App.css'
+import Header from './components/header'
 
 function App() {
 
   return (
     <>
-      <h1>HELLO WORLD</h1>
+      <Header title='Foda parça' bgColor='#12fe2d'/>
+      <h1>
+        asdasdads
+      </h1>
+
     </>
   )
 }
